@@ -1,5 +1,7 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Age Verification
+repo_url: https://github.com/Tgo1014/doc-test
+repo_name: Test Repository
 theme:
   name: material
   palette:
