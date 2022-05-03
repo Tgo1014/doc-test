@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+site_name: Age Verification
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+    - scheme: default
+      primary: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: dark)"
+    - scheme: slate
+      primary: cyan
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
