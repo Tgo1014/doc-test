@@ -7,8 +7,7 @@ markdown_extensions:
 nav:
     - 'index.md'
     - 'getting-started.md'
-    - 'changelog.md'
-    - 'test.md'
+    
 theme:
   name: material
   palette:
